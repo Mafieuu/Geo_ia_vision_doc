@@ -8,7 +8,7 @@
 
 project = 'GeoAIVision'
 copyright = '2024, MAY'
-author = 'MAY'
+author = 'ENSAE'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
