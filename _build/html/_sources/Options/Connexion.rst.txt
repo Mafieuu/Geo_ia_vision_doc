@@ -8,4 +8,4 @@ La connexion à l'application et à la zone affecté se fait par les information
 
 * Comme le montre la photo ci dessous:
   
-.. image:: con.jpg
+.. image:: connexion.jpg
